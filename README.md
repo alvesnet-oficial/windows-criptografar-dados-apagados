@@ -1,0 +1,1 @@
+# windows-criptografar-dados-apagados
